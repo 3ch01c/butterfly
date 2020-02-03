@@ -13,7 +13,7 @@
   },
   "homepage": "https://github.com/paradoxxxzero/butterfly",
   "devDependencies": {
-    "coffeelint": "^1.15.7",
+    "coffeelint": "^2.1.0",
     "grunt": "^1.0.1",
     "grunt-coffeelint": "0.0.15",
     "grunt-contrib-coffee": "^1.0.0",
